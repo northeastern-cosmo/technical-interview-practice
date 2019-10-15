@@ -16,3 +16,5 @@ Output: [1, 3]
 2019-09-29: Write a program to sort a stack such that the smallest items are on the top. You can use an additional temporary stack, but you may not copy the elements into any other data structure (such as an array). The stack supports the following operations: push, pop, peek, and isEmpty.
 
 2019-10-06: A child is running up a staircase with n steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a method to count how many possible ways the child can run up the stairs.
+
+2019-10-13: Write an algorithm which computes the number of trailing zeros in n factorial runtime.
