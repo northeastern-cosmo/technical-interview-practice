@@ -18,3 +18,5 @@ Output: [1, 3]
 2019-10-06: A child is running up a staircase with n steps and can hop either 1 step, 2 steps, or 3 steps at a time. Implement a method to count how many possible ways the child can run up the stairs.
 
 2019-10-13: Write an algorithm which computes the number of trailing zeros in n factorial runtime.
+
+2019-10-20: A magic index in an array A[1 ... n-1] is defined to be an index such that A[i] = i. Given a sorted array of distinct integers, write a method to find a magic index, if one exists, in array A.
