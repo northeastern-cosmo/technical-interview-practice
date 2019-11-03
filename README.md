@@ -20,3 +20,8 @@ Output: [1, 3]
 2019-10-13: Write an algorithm which computes the number of trailing zeros in n factorial runtime.
 
 2019-10-20: A magic index in an array A[1 ... n-1] is defined to be an index such that A[i] = i. Given a sorted array of distinct integers, write a method to find a magic index, if one exists, in array A.
+
+2019-10-27: Given an array N of numbers and constant K, find the contiguous subarray of N which has the largest sum.
+Ex. [1, 2, 3, 4, 5], 3 → [3, 4, 5]
+
+2019-11-03: Write a method to compute all permutations of a string of unique characters.
