@@ -25,3 +25,8 @@ Output: [1, 3]
 Ex. [1, 2, 3, 4, 5], 3 → [3, 4, 5]
 
 2019-11-03: Write a method to compute all permutations of a string of unique characters.
+
+2019-11-10: Given two arrays of integers, compute the pair of values (one value in each array) with the smallest (non-negative) difference. Return the difference.
+Ex.
+Input: {l, 3, 15, 11, 2}, {23, 127, 235, 19, 8}
+Output: 3. That is, the pair (11, 8).
